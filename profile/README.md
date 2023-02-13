@@ -14,18 +14,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Git" width="40" height="40"/>
-  https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" **alt="apple" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="codepen" **alt="codepen" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" **alt="dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" **alt="jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 </div>
